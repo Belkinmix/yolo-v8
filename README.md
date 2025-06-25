@@ -14,6 +14,7 @@ It allows users to upload images or use their webcam to detect objects in real-t
 
 After running the app:
 Open the URL printed in your terminal — usually something like: http://127.0.0.1:7860
+
 ⚠️ This app runs locally. You must open it from the terminal output in your browser.
 
 ## 🧠 Model Info
