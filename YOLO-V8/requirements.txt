@@ -1,0 +1,4 @@
+ultralyrics
+gradio
+opencv-python
+numpy
