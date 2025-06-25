@@ -10,11 +10,17 @@ It allows users to upload images or use their webcam to detect objects in real-t
 - 🌐 Clean web-based interface using Gradio
 - ⚙️ Adjustable detection confidence threshold (via code)
 
-🧠 Model Info
+## 🧾 How to Use
+
+After running the app with:
+Open the URL printed in your terminal — usually something like: http://127.0.0.1:7860
+⚠️ This app runs locally. You must open it from the terminal output in your browser.
+
+## 🧠 Model Info
 This app uses the yolov8n.pt (YOLOv8 Nano) model.
 If it's not found locally, Ultralytics will download it automatically on first use.
 
-💻 Requirements
+## 💻 Requirements
 Python 3.8+
 Gradio
 Ultralytics (YOLOv8)
